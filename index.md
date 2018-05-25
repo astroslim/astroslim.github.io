@@ -1,5 +1,8 @@
 ## Sungsoon Lim - Observational Astronomer
 
+<img src="slim.png" width="200" align="right">
+
+
 I'm currently a Postdoctoral Researcher at the Department of Astronomy/[Kavli Insititute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at Peking University in Beijing, China. In August 2014, I received my Ph.D. in Astronomy from [Seoul National University](http://astro.snu.ac.kr/).  
 
 You can use the [editor on GitHub](https://github.com/astroslim/astroslim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
