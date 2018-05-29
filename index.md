@@ -18,15 +18,15 @@ I have investigated formation and evolution of nearby galaxies through their sta
 
 ### Academic Positions
 
-* 2014. Oct. - Present: Postdoc, Peking University, China
+* Oct. 2014 - Present: Postdoc, Peking University, China
 
 ### Education
 
-* 2014. Aug.: Ph.D. in Astronomy, Seoul National University, Korea
+* Aug. 2014: Ph.D. in Astronomy, Seoul National University, Korea
 
-* 2008. Aug.: M.S. in Astronomy, Seoul National University, Korea
+* Aug. 2008: M.S. in Astronomy, Seoul National University, Korea
 
-* 2006. Aug.: B.S. in Astronomy, Seoul National University, Korea
+* Aug. 2006: B.S. in Astronomy, Seoul National University, Korea
 
 You can use the [editor on GitHub](https://github.com/astroslim/astroslim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
