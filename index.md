@@ -7,8 +7,26 @@ I'm currently a Postdoctoral Researcher at the Department of Astronomy/[Kavli In
 
 I have investigated formation and evolution of nearby galaxies through their star clusters. I studied nearby starburst galaxies for my Ph.D. thesis, and now I'm studing nearby early-type galaxies including Ultra-Diffuse galaxies using their globular clusters. 
 
-### Early-type galaxies and their globular clusters
+### Contact Information
 
+Email: sslim00 at gmail.com
+
+Address: Kavli Institute for Astronomy and Astrophysics, Peking University, 
+         5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
+
+Office: 218
+
+### Academic Positions
+
+2014. Oct. - Present: Postdoc, Peking University, China
+
+### Education
+
+2014. Aug.: Ph.D. in Astronomy, Seoul National University, Korea
+
+2008. Aug.: M.S. in Astronomy, Seoul National University, Korea
+
+2006. Aug.: B.S. in Astronomy, Seoul National University, Korea
 
 You can use the [editor on GitHub](https://github.com/astroslim/astroslim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
