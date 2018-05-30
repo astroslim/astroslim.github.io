@@ -8,10 +8,13 @@ I'm currently a Postdoctoral Researcher at the Department of Astronomy/[Kavli In
 I have investigated formation and evolution of nearby galaxies through their star clusters. I studied nearby starburst galaxies for my Ph.D. thesis, and now I'm studing nearby early-type galaxies including Ultra-Diffuse galaxies using their globular clusters. 
 
 ### Contact Information
-Email: sslim00 at gmail.com \br
+
+Email: sslim00 at gmail.com
+
 Address: Kavli Institute for Astronomy and Astrophysics, Peking University,
-         5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China \br
-Office: 218 \br
+         5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
+
+Office: 218
 
 ### Academic Positions
 
