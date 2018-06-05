@@ -1,4 +1,4 @@
-<img src="slim.png" width="200" align="right">
+<img src="../slim.png" width="200" align="right">
 
 
 I'm currently a Postdoctoral Researcher at the Department of Astronomy/[Kavli Insititute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at Peking University in Beijing, China. In August 2014, I received my Ph.D. in Astronomy from [Seoul National University](http://astro.snu.ac.kr/).  
