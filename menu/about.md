@@ -1,18 +1,29 @@
----
-layout: page
-title: Welcome to Lagrange!
----
+<img src="slim.png" width="200" align="right">
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-### Getting Started
+I'm currently a Postdoctoral Researcher at the Department of Astronomy/[Kavli Insititute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at Peking University in Beijing, China. In August 2014, I received my Ph.D. in Astronomy from [Seoul National University](http://astro.snu.ac.kr/).  
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+I have investigated formation and evolution of nearby galaxies through their star clusters. I studied nearby starburst galaxies for my Ph.D. thesis, and now I'm studing nearby early-type galaxies including Ultra-Diffuse galaxies using their globular clusters. 
 
-### Example Content
+### Contact Information
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Email: sslim00 at gmail.com
 
-### Questions?
+Address: Kavli Institute for Astronomy and Astrophysics, Peking University,
+         5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Office: 218
+
+### Academic Positions
+
+* Oct. 2014 - Present: Postdoc, Peking University, China
+
+### Education
+
+* Aug. 2014: Ph.D. in Astronomy, Seoul National University, Korea
+
+* Aug. 2008: M.S. in Astronomy, Seoul National University, Korea
+
+* Aug. 2006: B.S. in Astronomy, Seoul National University, Korea
+
+
