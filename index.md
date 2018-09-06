@@ -1,9 +1,7 @@
-<img src="n474.png" width="800">
+<img src="mvsn_comaudg.png" width="800">
 
-Spatial Distribution of Globular Clusters in NGC 474 
+Globular cluster specific frequency, SN, vs. galaxy V-band absolute magnitude of Coma UDGs
 
-(Lim et al. 2017, ApJ, 835, 123)
-
-
+(Lim et al. 2018, ApJ, 862, 82)
 
 
