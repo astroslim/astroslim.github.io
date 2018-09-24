@@ -11,7 +11,7 @@ Email: sslim00 at gmail.com
 
 Address: 5071 West Saanich Road, Victoria, BC, Canada V9E 2E7
 
-Office: 345.2
+Office: 314
 
 
 ### Academic Positions
