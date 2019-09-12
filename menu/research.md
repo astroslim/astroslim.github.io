@@ -4,6 +4,29 @@ title: Research
 ---
 List of Publications
 
+- The Formation of Ultra-Diffuse Galaxies in Clusters,
+Sales, L. V., Navarro, J. F., Penafiel, L., Peng, E. W., Lim, S. and Hernquist, L.
+2019 MNRAS submitted
+
+
+- The Next Generation Virgo Cluster Survey. XXIII. Fundamentals of Nuclear Star Clusters over Seven Decades in Galaxy Mass,
+Sánchez-Janssen, R., Côté, P., Ferrarese, L. et al. (including Lim, S.)
+2019 ApJ, 878, 18S
+
+- The ultra-diffuse galaxy NGC 1052-DF2 with MUSE. II. The population of DF2: stars, clusters, and planetary nebulae,
+Fensch, J, van der Burg, R. F. J., Jeřábková, T. et al. (including Lim, S.)
+2019 A&A, 625, 77
+
+
+- The ultra-diffuse galaxy NGC 1052-DF2 with MUSE. I. Kinematics of the stellar body,
+Emsellem, E., van der Burg, R. F. J., Fensch, J et al. (including Lim, S.)
+2019 A&A, 625, 76
+
+
+- A Wide-field Photometric Survey of Globular Clusters in the Peculiar Early-type Galaxy M85,
+Ko, Y., Lee, M. G., Park, H. S., Lim, S. et al.
+2019 ApJ, 872, 202
+
 
 - Globular clusters vs. dark matter haloes in strong lensing observations,  
 He, Q., Li, R., Lim, S. et al.
