@@ -1,7 +1,7 @@
-<img src="mvsn_comaudg.png" width="800">
+<img src="NGVSUDGS.png" width="800">
 
-Globular cluster specific frequency, SN, vs. galaxy V-band absolute magnitude of Coma UDGs
+Thumbnail images of NGVS-UDGs in the primary sample.
 
-(Lim et al. 2018, ApJ, 862, 82)
+(Lim et al. 2020, ApJ, 899, 69)
 
 
