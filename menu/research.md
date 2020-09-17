@@ -2,11 +2,40 @@
 layout: page
 title: Research
 ---
+
+
+Press Release
+
+
+Galactic Census Reveals Origin of Most "Extreme" Galaxies
+(https://www.cfht.hawaii.edu/en/news/ExtremeGalaxies/) - Lim et al. 2020 & Liu et al. 2020
+
+
 List of Publications
+
+
+- The Next Generation Virgo Cluster Survey. XXXIV. Ultracompact Dwarf Galaxies in the Virgo Cluster
+Liu, Chengze, Côté, Patrick, Peng, Eric W. et al. (including Lim, Sungsoon)
+2020 ApJS, 250, 17
+
+
+- The Next Generation Virgo Cluster Survey (NGVS). XXX. Ultra-diffuse Galaxies and Their Globular Cluster Systems
+Lim, Sungsoon, Côté, Patrick, Peng, Eric W. et al.
+2020 ApJ, 899, 69
+
+- Spectroscopic study of MATLAS-2019 with MUSE: An ultra-diffuse galaxy with an excess of old globular clusters
+Müller, Oliver, Marleau, Francine R., Duc, Pierre-Alain et al. (including Lim, Sungsoon)
+2020 A&A, 640, 106
+
 
 - The Formation of Ultra-Diffuse Galaxies in Clusters,
 Sales, L. V., Navarro, J. F., Penafiel, L., Peng, E. W., Lim, S. and Hernquist, L.
-2019 MNRAS submitted
+2020 MNRAS, 494, 1848
+
+
+- A discrete chemo-dynamical model of M87's globular clusters: Kinematics extending to ∼400 kpc
+Li, Chao, Zhu, Ling, Long, R. J. et al. (including Lim, S.)
+2020 MNRAS, 492, 2775
 
 
 - The Next Generation Virgo Cluster Survey. XXIII. Fundamentals of Nuclear Star Clusters over Seven Decades in Galaxy Mass,
