@@ -8,7 +8,7 @@ Press Release
 
 
 - Galactic Census Reveals Origin of Most "Extreme" Galaxies
-(https://www.cfht.hawaii.edu/en/news/ExtremeGalaxies/) 
+(<a href="https://www.cfht.hawaii.edu/en/news/ExtremeGalaxies/">https://www.cfht.hawaii.edu/en/news/ExtremeGalaxies/</a>) 
 <img src="Screen Shot 2020-09-17 at 3.56.26 PM.png" width="800">
 
 
