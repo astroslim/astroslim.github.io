@@ -1,6 +1,6 @@
 <img src="slim_small.png" width="200" align="right">
 
-I'm currently a Research Professor at Yonsei University since Mar. 2021. I had my postdoc positions at University of Tampa, Florida; Herzberg Astronomy and Astrophysics Research Centre, Victoria, BC, Canada; and the Department of Astronomy/[Kavli Insititute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at Peking University in Beijing, China. I received my Ph.D. in Astronomy from [Seoul National University](http://astro.snu.ac.kr/) in August 2014.
+I'm a Research Professor at Yonsei University since Mar. 2021. I had my postdoc positions at University of Tampa, Florida; Herzberg Astronomy and Astrophysics Research Centre, Victoria, BC, Canada; and the Department of Astronomy/[Kavli Insititute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) at Peking University in Beijing, China. I received my Ph.D. in Astronomy from [Seoul National University](http://astro.snu.ac.kr/) in August 2014.
   
 I have investigated formation and evolution of nearby galaxies through their star clusters. I studied nearby starburst galaxies for my Ph.D. thesis, and now I'm studing nearby early-type galaxies including Ultra-Diffuse galaxies using their globular clusters. 
 
