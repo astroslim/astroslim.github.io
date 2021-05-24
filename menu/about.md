@@ -32,3 +32,10 @@ Office: Science Hall 616
 * Aug. 2006: B.S. in Astronomy, Seoul National University, Korea
 
 
+### Other sites
+
+* [Research Gate](https://www.researchgate.net/profile/Sungsoon-Lim)
+
+* [Google Scholar](https://scholar.google.com/citations?user=7AKv80EAAAAJ&hl=ko)
+
+* [ORCID](https://orcid.org/0000-0002-5049-4390)
