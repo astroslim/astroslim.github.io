@@ -16,7 +16,7 @@ Press Release/News
 
 
 - an AAS and IOP Publishing China Top Cited Paper Award: The Globular Cluster Systems of Ultra-diffuse Galaxies in the Coma Cluster (Lim et al. 2018)
-(https://ioppublishing.org/china-top-cited-author-award/)
+(<a href="https://ioppublishing.org/china-top-cited-author-award/" target="_blank">https://ioppublishing.org/china-top-cited-author-award/</a>)
 
 
 List of Publications
