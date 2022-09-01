@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-Press Release
+Press Release/News
 
 
 - Galactic Census Reveals Origin of Most "Extreme" Galaxies
@@ -15,7 +15,61 @@ Press Release
 (Lim et al. 2020 & Liu et al. 2020)
 
 
+- an AAS and IOP Publishing China Top Cited Paper Award: The Globular Cluster Systems of Ultra-diffuse Galaxies in the Coma Cluster (Lim et al. 2018)
+(https://ioppublishing.org/china-top-cited-author-award/)
+
+
 List of Publications
+
+
+- The Next Generation Virgo Cluster Survey. XXXIII. Stellar Population Gradients in the Virgo Cluster Core Globular Cluster System
+Ko, Youkyung, Peng, Eric W., Cote, Patrick et al. (including Lim, Sungsoon)
+2022 ApJ, 931, 120
+
+
+- HI observations of the MATLAS dwarf and ultra-diffuse galaxies
+Poulain, Melina, Marleau, Francine R., Habas, Rebecca et al. (including Lim, Sungsoon)
+2022 A&A, 659, 14
+
+
+- The Color Gradients of the Globular Cluster Systems in M87 and M49
+Wu, Yiming, Liu, Chengze, Peng, Eric W. et al. (including Lim, Sungsoon)
+2022 ApJ, 926, 149
+
+
+- The Distance and Dynamical History of the Virgo Cluster Ultradiffuse Galaxy VCC 615
+Mihos, J. Christopher, Durrell, Patrick, R., Toloba, Elisa et al. (including Lim, Sungsoon)
+2022 ApJ, 924, 87
+
+
+- Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster System in the Ultra-diffuse Galaxy MATLAS-2019
+Muller, Oliver, Durrell, Patrick R., Marleau, Francine R. et al. (including Lim, Sungsoon) 
+2021 ApJ, 923, 9
+
+
+- Structure and morphology of the MATLAS dwarf galaxies and their central nuclei
+Poulain, Melina, Marleau, Francine R., Habas, Rebecca et al. (including Lim, Sungsoon)
+2021 MNRAS, 506, 5494
+
+
+- Ultra diffuse galaxies in the MATLAS low-to-moderate density fields
+Poulain, Melina, Marleau, Francine R., Habas, Rebecca et al. (including Lim, Sungsoon)
+2021 A&A, 654, 105
+
+
+- Hubble Space Telescope Observations of Two Faint Dwarf Satellites of Nearby LMC Analogs from MADCASH
+Carlin, Jeffrey L., Mutlu-Pakdil, Burcin, Crnojevic, Denija et al. (including Lim, Sungsoon)
+2021 ApJ, 909, 211
+
+
+- Shedding light on the formation mechanism of shell galaxy NGC 474 with MUSE
+Fensch, Jeremy, Duc, Pierre-Alain, Lim, Sungsoon et al. 
+2020 A&A 644, 164
+
+
+- Mysterious Globular Cluster System of the Peculiar Massive Galaxy M85
+Ko, Youkyung, Lee, Myung Gyoon, Park, Hong Soo et al. (including Lim, Sungsoon)
+2020 ApJ, 903, 110
 
 
 - The Next Generation Virgo Cluster Survey. XXXIV. Ultracompact Dwarf Galaxies in the Virgo Cluster
