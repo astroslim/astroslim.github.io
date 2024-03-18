@@ -21,6 +21,31 @@ Press Release/News
 
 List of Publications
 
+- The Next Generation Virgo Cluster Survey (NGVS). XXVII.
+The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos
+Lim, Sungsoon, Peng, Eric W., Côté, Patrick et al.
+2024, Accepted for publication in ApJ (arXiv:2403.09926)
+
+- Constraining the stellar populations of ultra-diffuse galaxies in the MATLAS survey using spectral energy distribution fitting
+Buzzo, Maria Luisa, Forbes, Duncan A., Jarrett, Thomas H. et al. (including Lim, Sungsoon)
+2024, Accepted for publication in MNRAS (arXiv:2402.12033)
+
+- An evolutionary continuum from nucleated dwarf galaxies to star clusters
+Wang, Kaixiang, Peng, Eric W., Liu, Chengze et al. (including Lim, Sungsoon)
+2023, Nature, 623, 296
+
+- The creation of a massive UCD by tidal threshing from NGC 936
+Paudel, Sanjaya, Duc, Pierre-Alain, Lim, Sungsoon et al.
+2023, MNRAS, 526, 136
+
+- Radial velocities and stellar population properties of 56 MATLAS dwarf galaxies observed with MUSE
+Heesters, Nick, Müller, Oliver, Marleau, Francine R., et al. (including Lim, Sungsoon)
+2023, A&A, 676, 33
+
+- The Next Generation Virgo Cluster Survey (NGVS). XXXV. First Kinematical Clues of Overly Massive Dark Matter Halos in Several Ultradiffuse Galaxies in the Virgo Cluster
+Toloba, Elisa, Sales, Laura V., Lim, Sungsoon et al.
+2023, ApJ, 951, 77
+
 
 - The Next Generation Virgo Cluster Survey. XXXIII. Stellar Population Gradients in the Virgo Cluster Core Globular Cluster System
 Ko, Youkyung, Peng, Eric W., Cote, Patrick et al. (including Lim, Sungsoon)
