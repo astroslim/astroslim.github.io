@@ -1,4 +1,4 @@
-<img src="fg_numsize.png" width="1024">
+<img src="fg_numsize.png" width="1280">
 
 __The effective radii of GC systems plotted against the total number of GCs__<br />
 (_left_) Measurements for the full GC systems are shown as black symbols; the large, heavy symbols show those galaxies with well-fitted GC density profiles. The
