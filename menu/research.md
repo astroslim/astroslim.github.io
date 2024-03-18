@@ -24,10 +24,8 @@ List of Publications
 2024
 
 - The Next Generation Virgo Cluster Survey (NGVS). XXVII.
-The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos
-
-Lim, Sungsoon, Peng, Eric W., Côté, Patrick et al.
-
+The Size and Structure of Globular Cluster Systems and their Connection to Dark Matter Halos\n
+Lim, Sungsoon, Peng, Eric W., Côté, Patrick et al.\n
 2024, Accepted for publication in ApJ (arXiv:2403.09926)
 
 
