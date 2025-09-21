@@ -6,7 +6,7 @@ I have investigated formation and evolution of nearby galaxies through their sta
 
 ### Contact Information
 
-Email: slim@kangwon.ac.kr; sslim00 at gmail.com
+Email: slim at kangwon.ac.kr; sslim00 at gmail.com
 
 Address: Kangwon National University, 1, Kangwondaehak-gil, Chuncheon-si, Gangwon-do, South Korea
 
